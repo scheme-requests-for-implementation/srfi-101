@@ -1,6 +1,8 @@
 #!r6rs
-;; SRFI 101: Purely Functional Random-Access Pairs and Lists
-;; Copyright (c) David Van Horn 2009.  All Rights Reserved.
+
+;;;; SPDX-FileCopyrightText: 2009 David Van Horn
+;;;;
+;;;; SPDX-License-Identifier: MIT
 
 ;; This code is derived from code written by William D Clinger.
 ;; http://lists.ccs.neu.edu/pipermail/larceny-users/2009-September/000735.html
