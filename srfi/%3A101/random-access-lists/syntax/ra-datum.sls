@@ -1,6 +1,8 @@
 #!r6rs
-;; SRFI 101: Purely Functional Random-Access Pairs and Lists
-;; Copyright (c) David Van Horn 2009.  All Rights Reserved.
+
+;;;; SPDX-FileCopyrightText: 2009 David Van Horn
+;;;;
+;;;; SPDX-License-Identifier: MIT
 
 (library (srfi :101 random-access-lists syntax ra-datum)
   (export datum->ra-datum)

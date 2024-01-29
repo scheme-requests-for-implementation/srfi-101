@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2009 David Van Horn
+#
+# SPDX-License-Identifier: MIT
+
 * SRFI 101: Purely Functional Random-Access Pairs and Lists
 
 ** by David Van Horn
